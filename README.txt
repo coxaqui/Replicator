@@ -1,1 +1,1 @@
-Simple replicator in Ruby. Once it runs it will replicate itself indefinitely until there is not more hard drive space. There is no malicious intent and I did this for education purposes.
+Simple replicator in Ruby. Once it runs it will replicate itself indefinitely until there is no more hard drive space. There is no malicious intent and I did this for educational purposes only.
